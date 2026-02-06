@@ -7,6 +7,6 @@ Yandex Music Desktop Widget Стильный, минималистичный в�
    git clone [https://github.com/your-login/Yandex-Music-Desktop-Widget.git](https://github.com/your-login/Yandex-Music-Desktop-Widget.git)
    cd название-репозитория
 2. **Установите необходимые зависимости:**
-   `pip install customtkinter pystray winsdk pillow soundcard numpy`
+   `pip install -r requirements.txt`
 3. **Запустите приложение:**
    `python3 main.py`
